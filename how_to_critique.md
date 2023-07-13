@@ -1,10 +1,12 @@
+## Download and Read the digital document here:
+
+https://apps.who.int/iris/rest/bitstreams/1364292/retrieve
+
 ## How to submit a critique of the WHO Digital Strategy for the Telehealth Working Group
 
-1. Create a pull request to this document
-2. Add your statements to the pull request
-3. Submit your pull request
-4. I will merge the pull requests and you will receive a notice
-5. You need to have a [github](https://github.com) for submitting pull requests, otherwise you cannot submit one. Please use your OWN github account, not others
+1. Click on "Issues" button on the top.
+2. Add an issue, then submit the issue
+3. You need to have a [github](https://github.com) for submitting issues, otherwise you cannot submit one. Please use your OWN github account, not others
 
 ## Conditions of accessing and submission of critique
 > Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial
